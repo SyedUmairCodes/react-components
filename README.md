@@ -27,6 +27,7 @@ No installation needed, just copy the code from the components folder and run. T
 - Newsletter signup.
 - Product modal.
 - Price grid.
+- Simple Card/Popup
 
 ## License
 
