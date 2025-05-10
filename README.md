@@ -1,3 +1,5 @@
+![Project banner](./public/banner.png)
+
 # Tailwind CSS Components
 
 A collection of modern, responsive UI components built with React and Tailwind CSS, designed to be easily integrated into your projects.
