@@ -28,6 +28,7 @@ No installation needed, just copy the code from the components folder and run. T
 - Product modal.
 - Price grid.
 - Simple Card/Popup
+- Gallery
 
 ## License
 
