@@ -30,6 +30,7 @@ No installation needed, just copy the code from the components folder and run. T
 - Simple Card/Popup
 - Gallery
 - Resukts section
+- Job post card
 
 ## License
 
