@@ -29,6 +29,7 @@ No installation needed, just copy the code from the components folder and run. T
 - Price grid.
 - Simple Card/Popup
 - Gallery
+- Resukts section
 
 ## License
 
